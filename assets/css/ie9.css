@@ -18,9 +18,9 @@
 		padding-top: 6em;
 	}
 
-		body.is-ie .wrapper.fullscreen {
+	body.is-ie .wrapper.fullscreen {
 			height: auto;
-		}
+	}
 
 /* Spotlights */
 
@@ -29,13 +29,13 @@
 		position: relative;
 	}
 
-		.spotlights > section > .image {
-			height: 100%;
-			left: 0;
-			position: absolute;
-			top: 0;
-			width: 20em;
-		}
+	.spotlights > section > .image {
+		height: 100%;
+		left: 0;
+		position: absolute;
+		top: 0;
+		width: 20em;
+	}
 
 		.spotlights > section > .content {
 			width: 100%;
